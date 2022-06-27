@@ -129,3 +129,7 @@ let cipher_text = cipherText(str, key);
 console.log(cipher_text);
 
 console.log(originalText(cipher_text, key));
+
+
+
+function get
